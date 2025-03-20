@@ -177,3 +177,4 @@ prototypes/
 Scripts/
 Lib/
 Include/
+pyvenv.cfg

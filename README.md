@@ -1,2 +1,2 @@
 # tr-langgraph-webscraping
-Chatbot to scrape any website using agents with LangGraph
+Chatbot to write an essay based on topic defined by user

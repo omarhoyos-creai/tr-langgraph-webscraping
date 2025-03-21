@@ -178,3 +178,6 @@ Scripts/
 Lib/
 Include/
 pyvenv.cfg
+
+# VS Code
+.vscode/

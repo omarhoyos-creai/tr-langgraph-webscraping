@@ -1,2 +1,2 @@
-# tr-langgraph-webscraping
-Chatbot to write an essay based on topic defined by user
+# Multi Agent essay writer
+Full autonomous essay writer using multi agents with LangGraph and web search with Tavily Search
